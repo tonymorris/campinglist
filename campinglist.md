@@ -36,6 +36,8 @@
 * Chopping Board
 * Large Knife
 * Corkscrew
+* Camping Cupboard
+* Folding Table
 
 # Drink
 * Beer
@@ -68,6 +70,10 @@
 * Undermat
 * Tarpaulin
 * Air Pump
+
+# Outdoor
+* Camping Chairs
+* Camping Light
 
 # Hygiene
 * Toilet Paper
